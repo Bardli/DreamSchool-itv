@@ -1,6 +1,6 @@
 # DreamSchool-itv
 
-question1.py 包含一下问题解
+## question1.py 包含以下问题解
 
 外汇牌价查询
 
@@ -46,7 +46,7 @@ python3 yourcode.py 20211231 USD
 
  
 
-question2.py 包含以下问题解
+## question2.py 包含以下问题解
 
 给你一个字符串，如果一个字符在它前面k个字符中已经出现过了，就把这个字符改成’-’。
 
